@@ -1,0 +1,14 @@
+File name format:
+
+1) Differential expressed genes/Differetial open regions between every two adjacent time points:
+
+text format tables are included.
+W/A_time1_vs_time2 (A means Adapted (Tibetan), W means wildtype (Han))
+Values 1 means time 1> time2, while -1 means time1 < time2;															
+
+
+2) Differential expressed genes/Differetial open regions between Tibetan and Han across all time points
+
+xlsx format tables are included.
+T-test with and without FDR p-values are provided.
+Direction(-1 means W<A, 1 means W>A; A(Tibetan), W(Han)).

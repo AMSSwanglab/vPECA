@@ -20,7 +20,7 @@ The final processed data are defined as the data on which the conclusions in the
 3) Tag density files for ATAC-seq in bigWig format. They can be visualized in the UCSC genome browser. 
 4) Features (e.g., genes, transcripts) in processed data files are traceable using public accession numbers or chromosome coordinates. 
 5) A description of the format and content of processed data files are provided in the metadata spreadsheet data processing fields. 
-6) HiC matrix file.
+6) Hi-C matrix file. The loop files are provided in Data_share folder.
 
 # (4) Data share of differetial analysis
 

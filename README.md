@@ -12,10 +12,6 @@ The Metadata spreadsheet is provide in Summay_info_of_HUVEC_data.xlsx, which con
 # (2) Raw data
 The data generated in this study, including RNA-seq, ATAC-seq, and Hi–C data were deposited at [http://www.ncbi.nlm.nih.gov/geo/] (accession number: GSE145774) and Genome Sequence Achieve (project number: CRA002025; [https://bigd.big.ac.cn/gsa/browse/CRA002025]).
 
-The metadata, peak, and bigwig track files are available at
-ftp://download.big.ac.cn/gsa/CRA002025/processed_data/.
-Metadata spreadsheets provide friendly access by linking the sample names with raw and processed data download links.
-
 
 # (3) Processed data
 The final processed data are defined as the data on which the conclusions in the related manuscript are based. 
